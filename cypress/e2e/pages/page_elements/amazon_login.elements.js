@@ -3,8 +3,8 @@ export const AmazonLoginElements = {
     BTN_EMAIL: ('.a-button-inner > #continue'),
     CMP_SENHA: ('#ap_password'),
     BTN_SENHA: ('#signInSubmit'),
-    EMAIL: 'testfafm@gmail.com',
-    SENHA: 'qazxsw12'
+    EMAIL: '',
+    SENHA: ''
 }
 
 export default AmazonLoginElements;
